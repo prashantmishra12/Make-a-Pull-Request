@@ -2,7 +2,7 @@
 
 ## About Me:
 
-19 years old undergraduate at IIIA.
+22 years old undergraduate at GU.
 
 ## Certificates:
 
@@ -11,11 +11,10 @@
 ## Programming Languages that I am familiar with:
 
 - HTML, CSS and Javascript
-- Python
-- Ruby
+- Java
 
 ## Frameworks:
-- Ruby on Rails
+- Spring,Hybernate
 - jQuery and Bootstrap
 
 [Visit my github](https://github.com/agam98)
